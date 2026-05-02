@@ -1,0 +1,1899 @@
+{
+  "version": "2.11",
+  "children": [
+    {
+      "type": "frame",
+      "id": "x0fUXI",
+      "x": -528,
+      "y": -1685,
+      "name": "alt-1",
+      "width": 1280,
+      "fill": "#ffffffff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "I36VEC",
+          "name": "Top Navigation",
+          "width": 1280,
+          "height": 149,
+          "fill": "#faf9f7cc",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "effect": {
+            "type": "background_blur",
+            "radius": 21
+          },
+          "layout": "vertical",
+          "gap": 285.3999938964844,
+          "padding": [
+            0,
+            0,
+            24,
+            0
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "pHVi4",
+              "name": "Frame 1",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 893,
+              "padding": [
+                24,
+                49
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "GidmH",
+                  "name": "Container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "id": "vKzv1",
+                      "name": "x-half-black-logo 1",
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "",
+                        "mode": "fill"
+                      },
+                      "width": 150,
+                      "height": 55,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "HBkYB",
+                  "x": 469.294921875,
+                  "y": 5,
+                  "name": "Container",
+                  "enabled": false,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 40,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "KuXVb",
+                      "name": "Link",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": {
+                          "bottom": 2
+                        },
+                        "fill": "#6b5d48ff"
+                      },
+                      "layout": "vertical",
+                      "padding": [
+                        4,
+                        0
+                      ],
+                      "layoutIncludeStroke": true,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "G3RLCq",
+                          "name": "Text",
+                          "fill": "#6b5d48ff",
+                          "content": "Features",
+                          "lineHeight": 1.5,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Manrope",
+                          "fontSize": 16,
+                          "fontWeight": "500",
+                          "letterSpacing": -0.4000000059604645
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "j9SB54",
+                      "name": "Link",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "padding": [
+                        4,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "OZ6Lt",
+                          "name": "Text",
+                          "fill": "#5b6063ff",
+                          "content": "Reviews",
+                          "lineHeight": 1.5,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Manrope",
+                          "fontSize": 16,
+                          "fontWeight": "500",
+                          "letterSpacing": -0.4000000059604645
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "Xooff",
+                      "name": "Link",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "padding": [
+                        4,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "vGwAk",
+                          "name": "Text",
+                          "fill": "#5b6063ff",
+                          "content": "Tech Specs",
+                          "lineHeight": 1.5,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Manrope",
+                          "fontSize": 16,
+                          "fontWeight": "500",
+                          "letterSpacing": -0.4000000059604645
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "uAhvP",
+                  "name": "Button",
+                  "fill": "#1f2933ff",
+                  "cornerRadius": 9999,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "padding": [
+                    12,
+                    24
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "RBcPm",
+                      "name": "Text",
+                      "fill": "#e5e7ebff",
+                      "content": "Pre-order Now",
+                      "lineHeight": 1.4285714285714286,
+                      "textAlign": "center",
+                      "textAlignVertical": "middle",
+                      "fontFamily": "Manrope",
+                      "fontSize": 14,
+                      "fontWeight": "700",
+                      "letterSpacing": -0.3499999940395355
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "N1Ic7",
+              "name": "stocks",
+              "width": "fill_container",
+              "height": 46,
+              "fill": "#1f2933ff",
+              "stroke": {
+                "align": "inside",
+                "thickness": {
+                  "top": 1,
+                  "bottom": 1
+                },
+                "fill": "#b0b2b01a"
+              },
+              "effect": {
+                "type": "background_blur",
+                "radius": 10.5
+              },
+              "layout": "vertical",
+              "padding": [
+                12,
+                0
+              ],
+              "layoutIncludeStroke": true,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "OuxXk",
+                  "name": "Container",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 12,
+                  "padding": [
+                    0,
+                    48
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "kHVBa",
+                      "name": "Container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "children": [
+                        {
+                          "type": "path",
+                          "id": "qXF0G",
+                          "name": "Icon",
+                          "geometry": "M6.75 11.25l1.5 0 0-4.5-1.5 0 0 4.5 0 0m0.75-6c0.2125 0 0.39063-0.07187 0.53438-0.21562 0.14375-0.14375 0.21562-0.32188 0.21562-0.53438 0-0.2125-0.07187-0.39063-0.21562-0.53437-0.14375-0.14375-0.32188-0.21563-0.53438-0.21563-0.2125 0-0.39063 0.07188-0.53438 0.21563-0.14375 0.14375-0.21562 0.32187-0.21562 0.53437 0 0.2125 0.07187 0.39063 0.21562 0.53438 0.14375 0.14375 0.32188 0.21562 0.53438 0.21562l0 0m0 9.75c-1.0375 0-2.0125-0.19688-2.925-0.59062-0.9125-0.39375-1.70625-0.92813-2.38125-1.60313-0.675-0.675-1.20937-1.46875-1.60313-2.38125-0.39375-0.9125-0.59062-1.8875-0.59062-2.925 0-1.0375 0.19687-2.0125 0.59062-2.925 0.39375-0.9125 0.92813-1.70625 1.60313-2.38125 0.675-0.675 1.46875-1.20937 2.38125-1.60313 0.9125-0.39375 1.8875-0.59062 2.925-0.59062 1.0375 0 2.0125 0.19687 2.925 0.59062 0.9125 0.39375 1.70625 0.92813 2.38125 1.60313 0.675 0.675 1.20937 1.46875 1.60313 2.38125 0.39375 0.9125 0.59062 1.8875 0.59062 2.925 0 1.0375-0.19688 2.0125-0.59062 2.925-0.39375 0.9125-0.92813 1.70625-1.60313 2.38125-0.675 0.675-1.46875 1.20937-2.38125 1.60313-0.9125 0.39375-1.8875 0.59062-2.925 0.59062l0 0m0-1.5c1.675 0 3.09375-0.58125 4.25625-1.74375 1.1625-1.1625 1.74375-2.58125 1.74375-4.25625 0-1.675-0.58125-3.09375-1.74375-4.25625-1.1625-1.1625-2.58125-1.74375-4.25625-1.74375-1.675 0-3.09375 0.58125-4.25625 1.74375-1.1625 1.1625-1.74375 2.58125-1.74375 4.25625 0 1.675 0.58125 3.09375 1.74375 4.25625 1.1625 1.1625 2.58125 1.74375 4.25625 1.74375l0 0m0-6l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+                          "fill": "#f6f1ebff",
+                          "width": 15,
+                          "height": 15
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "tVB1I",
+                      "name": "Container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "bNpHQ",
+                          "name": "Limited Release: Only 50 units remaining for the First Edition launch.",
+                          "fill": "#f6f1ebff",
+                          "content": "Limited Release: Only 50 units remaining for the First Edition launch.",
+                          "lineHeight": 1.25,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Noto Sans",
+                          "fontSize": 16,
+                          "fontWeight": "500",
+                          "letterSpacing": -0.3499999940395355
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "JNOPv",
+          "name": "Hero Section",
+          "clip": true,
+          "width": "fill_container",
+          "height": 848,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "lZ3U4",
+              "name": "Container",
+              "width": "fill_container",
+              "height": 710,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "QUngi",
+                  "x": 664,
+                  "y": 0,
+                  "name": "Container",
+                  "width": 568,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 48,
+                      "id": "zo2ua",
+                      "layoutPosition": "absolute",
+                      "x": -16,
+                      "y": -16,
+                      "name": "Overlay+Blur",
+                      "fill": "#f3e0c533",
+                      "width": 600,
+                      "height": 742,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "effect": {
+                        "type": "blur",
+                        "radius": 56
+                      }
+                    },
+                    {
+                      "type": "frame",
+                      "id": "xYcU7",
+                      "name": "The stunning new Fujifilm X-Half White featured in a minimalist aesthetic setting",
+                      "clip": true,
+                      "width": "fill_container",
+                      "height": 710,
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "",
+                        "mode": "stretch"
+                      },
+                      "cornerRadius": 32,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "effect": {
+                        "type": "shadow",
+                        "shadowType": "outer",
+                        "color": "#0000000d",
+                        "offset": {
+                          "x": 0,
+                          "y": 1
+                        },
+                        "blur": 1.75
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "OWjz0",
+                          "x": 317,
+                          "y": 27,
+                          "name": "x-half-logo 1",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "",
+                            "mode": "fill"
+                          },
+                          "width": 236,
+                          "height": 87,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "N0998P",
+                  "x": 48,
+                  "y": 174,
+                  "name": "Container",
+                  "width": 568,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 21,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "aYJ3w",
+                      "name": "Heading 1",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "H3reLL",
+                          "name": "Container",
+                          "width": "fill_container",
+                          "height": 72,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "r500U",
+                              "name": "The New",
+                              "fill": "#1f2933ff",
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "The New",
+                              "lineHeight": 1.5,
+                              "textAlignVertical": "middle",
+                              "fontFamily": "Fjalla One",
+                              "fontSize": 64,
+                              "fontWeight": "normal",
+                              "letterSpacing": -4.800000190734863
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "iy3lE",
+                          "name": "Container",
+                          "width": "fill_container",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "vJcDe",
+                              "name": "X-Half White",
+                              "fill": [
+                                "#e5e7ebff",
+                                "#00000033"
+                              ],
+                              "textGrowth": "fixed-width",
+                              "width": "fill_container",
+                              "content": "X-Half White",
+                              "lineHeight": 1.2,
+                              "textAlignVertical": "middle",
+                              "fontFamily": "Fjalla One",
+                              "fontSize": 80,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "X0MwkV",
+                      "name": "Container",
+                      "width": 512,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "UPPGS",
+                          "name": "Elegance meets performance. The highly anticipated X- HALF White has arrived, blending a minimalist aesthetic with Fujifilm's legendary imaging technology.",
+                          "fill": "#5d605eff",
+                          "content": "Elegance meets performance. The highly anticipated X-\nHALF White has arrived, blending a minimalist aesthetic\nwith Fujifilm's legendary imaging technology.",
+                          "lineHeight": 1.4,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Noto Sans",
+                          "fontSize": 20,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "e8ltf",
+                      "name": "Container",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 24,
+                      "padding": [
+                        16,
+                        0,
+                        0,
+                        0
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "sTSj0",
+                          "name": "Button",
+                          "fill": "#1f2933ff",
+                          "cornerRadius": 9999,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            12,
+                            24
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Tqqx8",
+                              "name": "Explore Product Page",
+                              "fill": "#e5e7ebff",
+                              "content": "Explore Product Page",
+                              "lineHeight": 1.5555555555555556,
+                              "textAlign": "center",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "Noto Sans",
+                              "fontSize": 18,
+                              "fontWeight": "500",
+                              "letterSpacing": -0.44999998807907104
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "yubEo",
+                          "name": "Button",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "gap": 8,
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "mfcWh",
+                              "name": "Pre-order Now",
+                              "fill": "#1f2933ff",
+                              "content": "Pre-order Now",
+                              "lineHeight": 1.5,
+                              "textAlign": "center",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "Noto Sans",
+                              "fontSize": 16,
+                              "fontWeight": "600",
+                              "letterSpacing": -0.4000000059604645
+                            },
+                            {
+                              "type": "frame",
+                              "id": "o8dD6",
+                              "name": "Container",
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1
+                              },
+                              "layout": "vertical",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "path",
+                                  "id": "s2pHQE",
+                                  "name": "Icon",
+                                  "geometry": "M12.175 9l-12.175 0 0-2 12.175 0-5.6-5.6 1.425-1.4 8 8-8 8-1.425-1.4 5.6-5.6 0 0",
+                                  "fill": "#1f2933ff",
+                                  "width": 16,
+                                  "height": 16
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "I8xQW",
+          "name": "Section - Announcement Highlight Grid",
+          "width": "fill_container",
+          "fill": "#f6f1ebff",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "padding": [
+            80,
+            0
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "Takur",
+              "name": "Container",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 80,
+              "padding": [
+                0,
+                48
+              ],
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "DzNTJ",
+                  "name": "Container",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 16,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "y7p93",
+                      "name": "Heading 2",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "Z8bEF",
+                          "name": "Uncompromising Detail.",
+                          "fill": "#1f2933ff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Uncompromising Detail.",
+                          "lineHeight": 1,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Fjalla One",
+                          "fontSize": 60,
+                          "fontWeight": "normal",
+                          "letterSpacing": -3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rectangle",
+                      "id": "IGbMC",
+                      "name": "Background",
+                      "fill": "#1f2933ff",
+                      "width": 96,
+                      "height": 4,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "H49mNJ",
+                  "name": "Container",
+                  "width": "fill_container",
+                  "height": 1029.3280029296875,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "Laa5z",
+                      "x": 0,
+                      "y": 0,
+                      "name": "Feature 1: The White Edition",
+                      "clip": true,
+                      "width": 778.6666259765625,
+                      "height": 413.3280029296875,
+                      "fill": "#f1d296ff",
+                      "cornerRadius": 32,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 48,
+                      "padding": 48,
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "ozbrb",
+                          "name": "Container",
+                          "width": "fill_container",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 24,
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "BH7NS",
+                              "name": "Icon",
+                              "geometry": "M15 30c-2.05 0-3.9875-0.39375-5.8125-1.18125-1.825-0.7875-3.41875-1.8625-4.78125-3.225-1.3625-1.3625-2.4375-2.95625-3.225-4.78125-0.7875-1.825-1.18125-3.7625-1.18125-5.8125 0-2.075 0.40625-4.025 1.21875-5.85 0.8125-1.825 1.9125-3.4125 3.3-4.7625 1.3875-1.35 3.00625-2.41875 4.85625-3.20625 1.85-0.7875 3.825-1.18125 5.925-1.18125 2 0 3.8875 0.34375 5.6625 1.03125 1.775 0.6875 3.33125 1.6375 4.66875 2.85 1.3375 1.2125 2.4 2.65 3.1875 4.3125 0.7875 1.6625 1.18125 3.45625 1.18125 5.38125 0 2.875-0.875 5.08125-2.625 6.61875-1.75 1.5375-3.875 2.30625-6.375 2.30625l-2.775 0c-0.225 0-0.38125 0.0625-0.46875 0.1875-0.0875 0.125-0.13125 0.2625-0.13125 0.4125 0 0.3 0.1875 0.73125 0.5625 1.29375 0.375 0.5625 0.5625 1.20625 0.5625 1.93125 0 1.25-0.34375 2.175-1.03125 2.775-0.6875 0.6-1.59375 0.9-2.71875 0.9l0 0m-8.25-13.5c0.65 0 1.1875-0.2125 1.6125-0.6375 0.425-0.425 0.6375-0.9625 0.6375-1.6125 0-0.65-0.2125-1.1875-0.6375-1.6125-0.425-0.425-0.9625-0.6375-1.6125-0.6375-0.65 0-1.1875 0.2125-1.6125 0.6375-0.425 0.425-0.6375 0.9625-0.6375 1.6125 0 0.65 0.2125 1.1875 0.6375 1.6125 0.425 0.425 0.9625 0.6375 1.6125 0.6375l0 0m4.5-6c0.65 0 1.1875-0.2125 1.6125-0.6375 0.425-0.425 0.6375-0.9625 0.6375-1.6125 0-0.65-0.2125-1.1875-0.6375-1.6125-0.425-0.425-0.9625-0.6375-1.6125-0.6375-0.65 0-1.1875 0.2125-1.6125 0.6375-0.425 0.425-0.6375 0.9625-0.6375 1.6125 0 0.65 0.2125 1.1875 0.6375 1.6125 0.425 0.425 0.9625 0.6375 1.6125 0.6375l0 0m7.5 0c0.65 0 1.1875-0.2125 1.6125-0.6375 0.425-0.425 0.6375-0.9625 0.6375-1.6125 0-0.65-0.2125-1.1875-0.6375-1.6125-0.425-0.425-0.9625-0.6375-1.6125-0.6375-0.65 0-1.1875 0.2125-1.6125 0.6375-0.425 0.425-0.6375 0.9625-0.6375 1.6125 0 0.65 0.2125 1.1875 0.6375 1.6125 0.425 0.425 0.9625 0.6375 1.6125 0.6375l0 0m4.5 6c0.65 0 1.1875-0.2125 1.6125-0.6375 0.425-0.425 0.6375-0.9625 0.6375-1.6125 0-0.65-0.2125-1.1875-0.6375-1.6125-0.425-0.425-0.9625-0.6375-1.6125-0.6375-0.65 0-1.1875 0.2125-1.6125 0.6375-0.425 0.425-0.6375 0.9625-0.6375 1.6125 0 0.65 0.2125 1.1875 0.6375 1.6125 0.425 0.425 0.9625 0.6375 1.6125 0.6375l0 0",
+                              "fill": "#1f2933ff",
+                              "width": 30,
+                              "height": 30
+                            },
+                            {
+                              "type": "frame",
+                              "id": "n7odl",
+                              "name": "Heading 3",
+                              "width": "fill_container",
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1
+                              },
+                              "layout": "vertical",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "c9v4kH",
+                                  "name": "Pure Aesthetic",
+                                  "fill": "#1f2933ff",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "Pure Aesthetic",
+                                  "lineHeight": 1.2,
+                                  "textAlignVertical": "middle",
+                                  "fontFamily": "Fjalla One",
+                                  "fontSize": 30,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "i5SSP",
+                              "name": "Container",
+                              "width": "fill_container",
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1
+                              },
+                              "layout": "vertical",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "wYuWs",
+                                  "name": "The new White Edition features a unique pearlescent finish and premium pebble-grain leatherette, designed to be a centerpiece of your creative kit.",
+                                  "fill": "#5d605eff",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "The new White Edition features a unique pearlescent finish and premium pebble-grain leatherette, designed to be a centerpiece of your creative kit.",
+                                  "lineHeight": 1.6666666666666667,
+                                  "textAlignVertical": "middle",
+                                  "fontFamily": "Noto Sans",
+                                  "fontSize": 18,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "z1OuPR",
+                          "name": "Container",
+                          "width": "fill_container",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "nvtPh",
+                              "name": "Close up of the white leather texture on the new Fujifilm X-Half White",
+                              "clip": true,
+                              "width": "fill_container",
+                              "height": 317.33331298828125,
+                              "fill": {
+                                "type": "image",
+                                "enabled": true,
+                                "url": "",
+                                "mode": "stretch"
+                              },
+                              "cornerRadius": 16,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1
+                              },
+                              "layout": "none"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "WogFc",
+                      "x": 810.6666259765625,
+                      "y": 0,
+                      "name": "Feature 2: Exclusive Pre-order",
+                      "width": 373.3333740234375,
+                      "height": 413.3280029296875,
+                      "fill": "#ff8fb163",
+                      "cornerRadius": 32,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "gap": 6.329999923706055,
+                      "padding": 48,
+                      "justifyContent": "space_between",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "nPJz7",
+                          "name": "Container",
+                          "width": "fill_container",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "gap": 23.100000381469727,
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "LnB30",
+                              "name": "Icon",
+                              "geometry": "M3 22.5l0 3 0 0 0 0 24 0 0 0 0 0 0-3-24 0 0 0m0-16.5l3.3 0c-0.125-0.225-0.20625-0.4625-0.24375-0.7125-0.0375-0.25-0.05625-0.5125-0.05625-0.7875 0-1.25 0.4375-2.3125 1.3125-3.1875 0.875-0.875 1.9375-1.3125 3.1875-1.3125 0.75 0 1.44375 0.19375 2.08125 0.58125 0.6375 0.3875 1.19375 0.86875 1.66875 1.44375l0.75 0.975 0.75-0.975c0.45-0.6 1-1.0875 1.65-1.4625 0.65-0.375 1.35-0.5625 2.1-0.5625 1.25 0 2.3125 0.4375 3.1875 1.3125 0.875 0.875 1.3125 1.9375 1.3125 3.1875 0 0.275-0.01875 0.5375-0.05625 0.7875-0.0375 0.25-0.11875 0.4875-0.24375 0.7125l3.3 0c0.825 0 1.53125 0.29375 2.11875 0.88125 0.5875 0.5875 0.88125 1.29375 0.88125 2.11875l0 16.5c0 0.825-0.29375 1.53125-0.88125 2.11875-0.5875 0.5875-1.29375 0.88125-2.11875 0.88125l-24 0c-0.825 0-1.53125-0.29375-2.11875-0.88125-0.5875-0.5875-0.88125-1.29375-0.88125-2.11875l0-16.5c0-0.825 0.29375-1.53125 0.88125-2.11875 0.5875-0.5875 1.29375-0.88125 2.11875-0.88125l0 0m0 12l24 0 0-9 0 0 0 0-7.65 0 3.15 4.275-2.4 1.725-5.1-6.9-5.1 6.9-2.4-1.725 3.075-4.275-7.575 0 0 0 0 0 0 9 0 0m7.5-12c0.425 0 0.78125-0.14375 1.06875-0.43125 0.2875-0.2875 0.43125-0.64375 0.43125-1.06875 0-0.425-0.14375-0.78125-0.43125-1.06875-0.2875-0.2875-0.64375-0.43125-1.06875-0.43125-0.425 0-0.78125 0.14375-1.06875 0.43125-0.2875 0.2875-0.43125 0.64375-0.43125 1.06875 0 0.425 0.14375 0.78125 0.43125 1.06875 0.2875 0.2875 0.64375 0.43125 1.06875 0.43125l0 0m9 0c0.425 0 0.78125-0.14375 1.06875-0.43125 0.2875-0.2875 0.43125-0.64375 0.43125-1.06875 0-0.425-0.14375-0.78125-0.43125-1.06875-0.2875-0.2875-0.64375-0.43125-1.06875-0.43125-0.425 0-0.78125 0.14375-1.06875 0.43125-0.2875 0.2875-0.43125 0.64375-0.43125 1.06875 0 0.425 0.14375 0.78125 0.43125 1.06875 0.2875 0.2875 0.64375 0.43125 1.06875 0.43125l0 0",
+                              "fill": "#1f2933ff",
+                              "width": 30,
+                              "height": 28.5
+                            },
+                            {
+                              "type": "frame",
+                              "id": "M2iOJo",
+                              "name": "Heading 3",
+                              "width": "fill_container",
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1
+                              },
+                              "layout": "vertical",
+                              "padding": [
+                                0.8999999761581421,
+                                0,
+                                0,
+                                0
+                              ],
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "qO3To",
+                                  "name": "Launch Reward",
+                                  "fill": "#1f2933ff",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "Launch Reward",
+                                  "lineHeight": 1.3333333333333333,
+                                  "textAlignVertical": "middle",
+                                  "fontFamily": "Fjalla One",
+                                  "fontSize": 24,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "K1BSq",
+                              "name": "Container",
+                              "opacity": 0.800000011920929,
+                              "width": "fill_container",
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1
+                              },
+                              "layout": "vertical",
+                              "padding": [
+                                0,
+                                0,
+                                0.875,
+                                0
+                              ],
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "tQoCG",
+                                  "name": "Pre-order within the next 48 hours to receive an exclusive artisan leather strap and an additional 12-month extended warranty.",
+                                  "fill": "#1f2933ff",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "Pre-order within the next 48 hours to receive an exclusive artisan leather strap and an additional 12-month extended warranty.",
+                                  "lineHeight": 1.6666666666666667,
+                                  "textAlignVertical": "middle",
+                                  "fontFamily": "Noto Sans",
+                                  "fontSize": 18,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "BcHmU",
+                          "name": "Button:margin",
+                          "width": "fill_container",
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            48,
+                            0,
+                            0,
+                            0
+                          ],
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "m2YbTe",
+                              "name": "Button",
+                              "width": "fill_container",
+                              "fill": "#1f2933ff",
+                              "cornerRadius": 9999,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1
+                              },
+                              "layout": "vertical",
+                              "padding": [
+                                12,
+                                0
+                              ],
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "rQyHv",
+                                  "name": "Secure Yours Now",
+                                  "fill": "#fff8f2ff",
+                                  "content": "Secure Yours Now",
+                                  "lineHeight": 1.4285714285714286,
+                                  "textAlign": "center",
+                                  "textAlignVertical": "middle",
+                                  "fontFamily": "Noto Sans",
+                                  "fontSize": 14,
+                                  "fontWeight": "600",
+                                  "letterSpacing": -0.3499999940395355
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "NWcUG",
+                      "x": 0,
+                      "y": 445.3280029296875,
+                      "name": "Feature 3: Specs at a glance",
+                      "width": 373.3333740234375,
+                      "height": 584,
+                      "fill": "#bec6bfff",
+                      "cornerRadius": 32,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "KUvJq",
+                          "x": 48,
+                          "y": 48,
+                          "name": "Container",
+                          "width": 277.3299865722656,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "children": [
+                            {
+                              "type": "path",
+                              "id": "ZY7Hq",
+                              "name": "Icon",
+                              "geometry": "M27 12l-1.875-4.125-4.125-1.875 4.125-1.875 1.875-4.125 1.875 4.125 4.125 1.875-4.125 1.875-1.875 4.125 0 0m0 21l-1.875-4.125-4.125-1.875 4.125-1.875 1.875-4.125 1.875 4.125 4.125 1.875-4.125 1.875-1.875 4.125 0 0m-15-4.5l-3.75-8.25-8.25-3.75 8.25-3.75 3.75-8.25 3.75 8.25 8.25 3.75-8.25 3.75-3.75 8.25 0 0m0-7.275l1.5-3.225 3.225-1.5-3.225-1.5-1.5-3.225-1.5 3.225-3.225 1.5 3.225 1.5 1.5 3.225 0 0m0-4.725l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+                              "fill": "#1f2933ff",
+                              "width": 33,
+                              "height": 33
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "n2iIP",
+                          "x": 48,
+                          "y": 112,
+                          "name": "Heading 3",
+                          "width": 277.3299865722656,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "pD2BP",
+                              "name": "Next-Gen Tech",
+                              "fill": "#1f2933ff",
+                              "content": "Next-Gen Tech",
+                              "lineHeight": 1.3333333333333333,
+                              "textAlignVertical": "middle",
+                              "fontFamily": "Fjalla One",
+                              "fontSize": 24,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "yfrE5",
+                          "x": 48,
+                          "y": 167.125,
+                          "name": "Container",
+                          "width": 277.3299865722656,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            0,
+                            0,
+                            0.875,
+                            0
+                          ],
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "tHars",
+                              "name": "Equipped with the latest X-Trans CMOS 4 sensor and a revolutionary compact lens design for the ultimate pocket-sized power.",
+                              "fill": "#1f2933ff",
+                              "textGrowth": "fixed-width",
+                              "width": 277,
+                              "content": "Equipped with the latest X-Trans CMOS 4 sensor and a revolutionary compact lens design for the ultimate pocket-sized power.",
+                              "lineHeight": 1.6666666666666667,
+                              "textAlignVertical": "middle",
+                              "fontFamily": "Noto Sans",
+                              "fontSize": 18,
+                              "fontWeight": "normal"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "qtOAS",
+                      "x": 405.3333740234375,
+                      "y": 445.3280029296875,
+                      "name": "Feature 4: Product Lifestyle",
+                      "clip": true,
+                      "width": 778.6666259765625,
+                      "fill": "#ffffffff",
+                      "cornerRadius": 32,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "justifyContent": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "C5t0SI",
+                          "name": "The Fujifilm X-Half White in a lifestyle setting",
+                          "clip": true,
+                          "width": "fill_container",
+                          "height": 584,
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "",
+                            "mode": "stretch"
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "none"
+                        },
+                        {
+                          "type": "frame",
+                          "id": "iLNWn",
+                          "layoutPosition": "absolute",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Background",
+                          "opacity": 0,
+                          "width": 778.6699829101562,
+                          "height": 584,
+                          "fill": {
+                            "type": "gradient",
+                            "gradientType": "linear",
+                            "enabled": true,
+                            "rotation": -360,
+                            "size": {
+                              "height": 1
+                            },
+                            "colors": [
+                              {
+                                "color": "#6b5d4866",
+                                "position": 0
+                              },
+                              {
+                                "color": "#6b5d4800",
+                                "position": 1
+                              }
+                            ],
+                            "center": {
+                              "x": 0.4999999776483548
+                            }
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "padding": 48,
+                          "alignItems": "end",
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "k9g8Ug",
+                              "name": "Container",
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1
+                              },
+                              "layout": "vertical",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "hn7vZ",
+                                  "name": "Text",
+                                  "fill": "#ffffffff",
+                                  "content": "The Gold Standard of Minimalist Tech.",
+                                  "lineHeight": 1.4,
+                                  "textAlignVertical": "middle",
+                                  "fontFamily": "Manrope",
+                                  "fontSize": 20,
+                                  "fontWeight": "700"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "AQKUR",
+          "name": "Section - Product Detail Showcase",
+          "width": "fill_container",
+          "fill": "#faf9f7ff",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "padding": [
+            80,
+            48
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "YcmZ4",
+              "name": "Container",
+              "width": "fill_container",
+              "height": 746.656005859375,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "T4wLa",
+                  "x": 0,
+                  "y": 2.671875,
+                  "name": "Fujifilm X-Half White top view",
+                  "clip": true,
+                  "width": 555,
+                  "height": 741,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "",
+                    "mode": "stretch"
+                  },
+                  "cornerRadius": 32,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#00000040",
+                    "offset": {
+                      "x": 0,
+                      "y": 25
+                    },
+                    "blur": 43.75,
+                    "spread": -12
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "Spdbq",
+                      "x": 25,
+                      "y": 610.673828125,
+                      "name": "Heading 2",
+                      "width": 473,
+                      "height": "fit_content(196)",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical"
+                    },
+                    {
+                      "type": "text",
+                      "id": "lXaJb",
+                      "x": 10,
+                      "y": 550.673828125,
+                      "name": "Half the frame all the feeling",
+                      "fill": "#1f2933ff",
+                      "content": "Half the frame\nall the feeling",
+                      "lineHeight": 0.9375,
+                      "textAlignVertical": "middle",
+                      "fontFamily": "Fjalla One",
+                      "fontSize": 96,
+                      "fontWeight": "normal",
+                      "letterSpacing": -7
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "U4flg2",
+                  "x": 642,
+                  "y": 420.671875,
+                  "name": "Container",
+                  "width": 411,
+                  "height": 326,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 31.399999618530273,
+                  "justifyContent": "end",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "VGRyl",
+                      "name": "Container",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "padding": [
+                        0,
+                        0,
+                        0.625,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "GPKSi",
+                          "name": "Every dial, every button, and every curve has been reconsidered for the digital age. The X-HALF White isn't just a camera—it's an extension of your creative vision, ready to capture life's most beautiful moments the second they happen.",
+                          "fill": "#5d605eff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Every dial, every button, and every curve has been reconsidered for the digital age. The X-HALF White isn't just a camera—it's an extension of your creative vision, ready to capture life's most beautiful moments the second they happen.",
+                          "lineHeight": 1.6666666666666667,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Noto Sans",
+                          "fontSize": 18,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "q2jjH8",
+                      "name": "Button",
+                      "fill": "#1f2933ff",
+                      "cornerRadius": 9999,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "padding": [
+                        16,
+                        24
+                      ],
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "SgwIH",
+                          "name": "Pre-order Now",
+                          "fill": "#e5e7ebff",
+                          "content": "Pre-order Now",
+                          "lineHeight": 1.5555555555555556,
+                          "textAlign": "center",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Noto Sans",
+                          "fontSize": 18,
+                          "fontWeight": "600",
+                          "letterSpacing": -0.44999998807907104
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "rectangle",
+                  "cornerRadius": 22,
+                  "id": "udOvn",
+                  "x": 1183.738525390625,
+                  "y": 65.58625030517578,
+                  "name": "DSCF3421  1",
+                  "rotation": -0.12153606553682578,
+                  "flipX": true,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "",
+                    "mode": "fill"
+                  },
+                  "width": 390.781494140625,
+                  "height": 293.08612060546875,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#00000040",
+                    "offset": {
+                      "x": 0,
+                      "y": 4
+                    },
+                    "blur": 3.5
+                  }
+                },
+                {
+                  "type": "rectangle",
+                  "cornerRadius": 22,
+                  "id": "b3FSq",
+                  "x": 773.4022827148438,
+                  "y": 64.50080108642578,
+                  "name": "DSCF3558  1",
+                  "rotation": -0.12153606553682578,
+                  "flipX": true,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "",
+                    "mode": "fill"
+                  },
+                  "width": 390.781494140625,
+                  "height": 293.08612060546875,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "effect": {
+                    "type": "shadow",
+                    "shadowType": "outer",
+                    "color": "#00000040",
+                    "offset": {
+                      "x": 0,
+                      "y": 4
+                    },
+                    "blur": 3.5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "HI7DH",
+          "name": "Section - Pre-order Footer Callout",
+          "width": "fill_container",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "padding": [
+            80,
+            0
+          ],
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "MBMcr",
+              "name": "Container",
+              "width": 1184,
+              "height": 548,
+              "fill": "#f6f1ebff",
+              "cornerRadius": 32,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 16,
+              "padding": [
+                30,
+                48,
+                30,
+                0
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "yEfxL",
+                  "name": "Frame 2",
+                  "clip": true,
+                  "width": 516,
+                  "height": 548,
+                  "cornerRadius": [
+                    32,
+                    0,
+                    0,
+                    32
+                  ],
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "none",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "id": "wGloj",
+                      "x": 516,
+                      "y": -14.984130859375,
+                      "name": "DSCF4243  1",
+                      "flipX": true,
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "",
+                        "mode": "fill"
+                      },
+                      "width": 516,
+                      "height": 626,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "FGYf3",
+                  "name": "Frame 1",
+                  "width": 672,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 8,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "Zuh1O",
+                      "name": "Heading 2",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "IXynu",
+                          "name": "Your aesthetic, realized.",
+                          "fill": "#1f2933ff",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Your aesthetic, realized.",
+                          "lineHeight": 1,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Fjalla One",
+                          "fontSize": 60,
+                          "fontWeight": "normal",
+                          "letterSpacing": -3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "lwZKg",
+                      "name": "Container",
+                      "opacity": 0.8999999761581421,
+                      "width": 672,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "lHbY7",
+                          "name": "Be among the first to own the new standard of minimalist imaging.",
+                          "fill": "#1f2933ff",
+                          "content": "Be among the first to own the new standard of minimalist imaging.",
+                          "lineHeight": 1.4,
+                          "textAlign": "center",
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Noto Sans",
+                          "fontSize": 20,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "VDmit",
+                      "name": "Container",
+                      "width": "fill_container",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "gap": 24,
+                      "padding": [
+                        40,
+                        0,
+                        0,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "kNA7t",
+                          "name": "Button",
+                          "fill": "#1f2933ff",
+                          "cornerRadius": 9999,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 1
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            12,
+                            24
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Tlzav",
+                              "name": "Pre-order Now",
+                              "fill": "#f6f1ebff",
+                              "content": "Pre-order Now",
+                              "lineHeight": 1.4,
+                              "textAlign": "center",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "Noto Sans",
+                              "fontSize": 20,
+                              "fontWeight": "600",
+                              "letterSpacing": -0.5
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "FGFZ3",
+                          "name": "Button",
+                          "height": 52,
+                          "cornerRadius": 9999,
+                          "stroke": {
+                            "align": "inside",
+                            "thickness": 2,
+                            "fill": "#1f2933ff"
+                          },
+                          "layout": "vertical",
+                          "padding": [
+                            12,
+                            24
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "layoutIncludeStroke": true,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "O1eBSk",
+                              "name": "Explore Product Page",
+                              "fill": "#1f2933ff",
+                              "content": "Explore Product Page",
+                              "lineHeight": 1.4,
+                              "textAlign": "center",
+                              "textAlignVertical": "middle",
+                              "fontFamily": "Noto Sans",
+                              "fontSize": 20,
+                              "fontWeight": "600",
+                              "letterSpacing": -0.5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "mdmpb",
+          "name": "Footer",
+          "width": "fill_container",
+          "fill": "#1f2933ff",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "children": [
+            {
+              "type": "frame",
+              "id": "QzrUx",
+              "name": "Container",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 133.8000030517578,
+              "padding": [
+                50,
+                48,
+                25,
+                48
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "end",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "NRz7K",
+                  "name": "Container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "vertical",
+                  "gap": 22.875,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "HvMge",
+                      "x": 0,
+                      "y": 0,
+                      "name": "Container",
+                      "enabled": false,
+                      "width": "fill_container(236)",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "MAtaP",
+                          "name": "Text",
+                          "fill": "#e5e7ebff",
+                          "content": "FUJIFILM X-HALF",
+                          "lineHeight": 1.5555555555555556,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Manrope",
+                          "fontSize": 18,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rectangle",
+                      "id": "SSSJP",
+                      "name": "x-half-logo 1",
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "",
+                        "mode": "fill"
+                      },
+                      "width": 150,
+                      "height": 55,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      }
+                    },
+                    {
+                      "type": "frame",
+                      "id": "tZfDh",
+                      "x": 0,
+                      "y": 160.75,
+                      "name": "Container",
+                      "enabled": false,
+                      "width": "fill_container(355.0799865722656)",
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1
+                      },
+                      "layout": "vertical",
+                      "padding": [
+                        0,
+                        0,
+                        0.625,
+                        0
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "T0AdI",
+                          "name": "Text",
+                          "fill": "#e5e7ebff",
+                          "content": "Designed in Tokyo. Curated for the world. Capturing the\nbeauty of the new era of creators.",
+                          "lineHeight": 1.625,
+                          "textAlignVertical": "middle",
+                          "fontFamily": "Manrope",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "Eq2Ou",
+                  "name": "© 2026 Fujifilm Corporation. All rights reserved.",
+                  "opacity": 0.6000000238418579,
+                  "fill": "#e5e7ebff",
+                  "content": "© 2026 Fujifilm Corporation. All rights reserved.",
+                  "lineHeight": 1.421875,
+                  "textAlignVertical": "middle",
+                  "fontFamily": "Noto Sans",
+                  "fontSize": 16,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

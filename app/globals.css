@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #1f2933;
+  --cream: #f6f1eb;
+  --warm: #faf9f7;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-noto);
+  --font-heading: var(--font-fjalla);
+  --font-manrope: var(--font-manrope);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.font-heading {
+  font-family: var(--font-fjalla), ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-manrope {
+  font-family: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+}
+
+.text-gradient-title {
+  background: linear-gradient(180deg, #e5e7eb 0%, rgba(31, 41, 51, 0.45) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
