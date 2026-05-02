@@ -5,7 +5,7 @@ import { IconArrowRight } from "./LandingIcons";
 
 export default function HeroSection() {
   return (
-    <section className="relative overflow-hidden">
+    <section className="relative overflow-hidden pt-16">
       <div className="grid min-h-[720px] gap-10 px-6 py-12 lg:grid-cols-2 lg:items-center lg:gap-4 lg:px-12 lg:py-16 container max-w-[1280px] mx-auto">
         <div className="order-2 flex max-w-xl flex-col gap-5 lg:order-1">
           <div>
